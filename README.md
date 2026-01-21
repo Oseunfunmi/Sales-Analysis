@@ -3,7 +3,7 @@
 ## 📖 Project Overview
 This project involves analyzing sales data for **BG Stores**, a US-based retail company, to identify trends, top-performing products, and regional profitability. The goal was to transform raw sales records into an interactive dashboard that aids stakeholders in making data-driven decisions.
 
-![Dashboard Preview](assets/dashboard-full.png)
+![Dashboard Preview](assets/dashboard-full.PNG)
 *(Note: To interact with the slicers, please download the Excel file.)*
 
 ## ❓ Problem Statement
